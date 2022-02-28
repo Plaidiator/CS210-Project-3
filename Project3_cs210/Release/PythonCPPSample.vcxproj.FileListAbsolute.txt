@@ -1,0 +1,3 @@
+C:\Users\Brandon\source\repos\PythonCPPSample\Release\PythonCPPSample.exe
+C:\Users\Brandon\source\repos\PythonCPPSample - Copy\Release\PythonCPPSample.exe
+C:\Users\Brandon\source\repos\Project3_cs210\Release\PythonCPPSample.exe
